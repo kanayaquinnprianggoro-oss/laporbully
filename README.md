@@ -1,2 +1,27 @@
-# laporbully
-LaporBully adalah aplikasi sederhana berbasis teknologi informasi yang membantu siswa melaporkan tindakan bullying secara lebih aman dan terorganisir. Aplikasi ini menyediakan fitur pelaporan, pencarian laporan, pengelolaan status laporan, serta edukasi anti bullying untuk mendukung lingkungan sekolah yang lebih aman dan nyaman.
+# LaporBully
+LaporBully merupakan aplikasi berbasis web yang dirancang untuk membantu siswa melaporkan tindakan bullying yang terjadi di lingkungan sekolah. Aplikasi ini dibuat sebagai bentuk penerapan teknologi informasi dalam menyelesaikan permasalahan sosial di lingkungan pendidikan.
+
+# Fitur
+- Form pelaporan bullying
+- Penyimpanan data menggunakan Local Storage
+- Pencarian laporan
+- Pengelolaan status laporan
+- Edukasi anti bullying
+- Tutorial penggunaan aplikasi
+- Tampilan responsif dan interaktif
+
+# Dampak Sosial Informatika
+Aplikasi ini menunjukkan bagaimana teknologi informasi dapat dimanfaatkan untuk:
+- Mempermudah proses pelaporan bullying
+- Membantu komunikasi antara siswa dan pihak sekolah
+- Meningkatkan kesadaran tentang pentingnya lingkungan yang aman
+- Mendukung penyelesaian masalah sosial melalui teknologi
+
+# Pembuat
+Kanaya Quinn
+
+Portfolio:
+s.id/kanayaquinn
+
+Instagram:
+@kanaayaq
